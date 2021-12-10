@@ -1,5 +1,7 @@
 # importmagic.el [![Build Status](https://travis-ci.org/anachronic/importmagic.el.svg?branch=master)](https://travis-ci.org/anachronic/importmagic.el) [![MELPA](https://melpa.org/packages/importmagic-badge.svg)](https://melpa.org/#/importmagic)
 
+**I am not one of the original code contributors. I am experimenting with updating and improving this package. At the moment, I have no intention of long-term support, but I may make try to push to the master package if I add any significant fixes and/or improvements (assuming that there is anyone to review these changes). This process may include updating the seemingly abandonned master imagicmagic package as well.**
+
 `importmagic.el` is an Emacs package inspired on
 @alecthomas's [importmagic](https://github.com/alecthomas/importmagic)
 library and PyCharm's ability to suggest imports for unresolved
